@@ -1,5 +1,5 @@
-//Florian TURMEL, Projet Plomberie, mars 2021
-//class Case, liée à la pile
+/* Code par TekneX */
+/* https://github.com/Teknexx */
 
 package progPure;
 
