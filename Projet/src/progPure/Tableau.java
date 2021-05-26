@@ -1,5 +1,5 @@
-//Florian TURMEL, Projet Plomberie, mars 2021
-//class tableau, où se trouvent les fonctions servant a tester les prochaines cases
+/* Code par TekneX */
+/* https://github.com/Teknexx */
 
 package progPure;
 
