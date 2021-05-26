@@ -1,5 +1,5 @@
-//Florian TURMEL, Projet Plomberie, mars 2021
-//class Prog, la classe qui execute l'algorithme et qui rempli le tableau, la classe principale
+/* Code par TekneX */
+/* https://github.com/Teknexx */
 
 package progPure;
 	
