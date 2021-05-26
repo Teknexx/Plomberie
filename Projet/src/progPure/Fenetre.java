@@ -1,5 +1,5 @@
-//Florian TURMEL, Projet Plomberie, mars 2021
-//class Fenetre, où se situent le graphisme et où sont codés les interractions avec l'utilisateur
+/* Code par TekneX */
+/* https://github.com/Teknexx */
 
 package progPure;
 
